@@ -1,0 +1,6 @@
+name = "Kaznachey"
+description = "www.kaznachey.ua Кредитная карта Visa/MC, Webmoney, Liqpay, Qiwi..."
+files[] = uc_kaznachey.module
+dependencies[] = uc_payment
+package = "Ubercart - payment"
+core = 7.x
